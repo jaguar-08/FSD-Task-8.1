@@ -1,0 +1,33 @@
+#head{
+    background: gray;
+    width : 400px;
+    height: 700px;
+    font-size: large;
+    
+    
+}
+h5{
+    left: 10px;
+    top: 10px;
+    width: 380px;
+    height: 50px;
+    background: orange;
+    color: white;
+    position: relative;
+    
+    
+
+    
+}
+li{
+    
+    padding: 1px;
+    list-style-type: square;
+    
+}
+.para{
+    position: absolute;
+    margin-left: 420px;
+    top: 10px;
+    font-size: large;
+}
